@@ -1,0 +1,9 @@
+/* =========
+Your custom styles go here
+ ========= */
+ 
+ .page-chat {
+  font-family: "centabel";
+  background: url("../img/leukemia") no-repeat center center fixed;
+  background-size: cover;
+}
